@@ -37,12 +37,5 @@ A collection of fun and simple mobile games built with SwiftUI.
 
 ### Installation
 
-MiniGames/
-/n├── CarDrivingGame/
-/n├── SlidingPuzzleGame/
-/n├── SpinningGame/
-/n├── Assets.xcassets/
-/n├── README.md
-/n├── MiniGames.xcodeproj
-/n└── ...
+<pre lang="markdown"> ```text MiniGames/ ├── CarDrivingGame/ ├── SlidingPuzzleGame/ ├── SpinningGame/ ├── Assets.xcassets/ ├── README.md ├── MiniGames.xcodeproj └── ... ``` </pre>
 
