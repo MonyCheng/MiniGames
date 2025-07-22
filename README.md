@@ -1,4 +1,4 @@
-<img width="300" height="600" alt="IMG_2938" src="https://github.com/user-attachments/assets/36ebbe5c-9401-4eb3-af02-9d499cdf1c48" /># MiniGames
+# MiniGames
 
 # 🎮 MiniGames
 <img width="300" height="600" alt="IMG_2937" src="https://github.com/user-attachments/assets/b2cb6cea-2511-4132-8d50-39f2c8e98e9c" />
